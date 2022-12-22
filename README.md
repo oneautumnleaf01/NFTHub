@@ -11,6 +11,10 @@ npm install openai
 ```
 
 ```shell
+npm install next
+```
+
+```shell
 npm install web3modal
 ```
 
