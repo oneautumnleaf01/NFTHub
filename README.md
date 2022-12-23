@@ -34,6 +34,14 @@ npm install --save-dev @types/react
 npm install ipfs-http-client
 ```
 
+```shell
+npm cd my-app
+```
+
+```shell
+npm run dev // to run the project
+```
+
 ### Features
 
 Showcase your NFTs: Share your NFTs with the community and let others discover your creations.
@@ -45,5 +53,5 @@ Bid on NFTs: Participate in auctions for NFTs and place bids to try and win your
 
 - [x] NFT generation using DALL-E
 - [x] Upload NFT Page
-- [ ] Metamask Wallet Connection with Smart Contract
-- [ ] Showcase Screen
+- [x] Metamask Wallet Connection with Smart Contract
+- [x] Showcase Screen
