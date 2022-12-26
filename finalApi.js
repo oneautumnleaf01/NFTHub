@@ -5,7 +5,7 @@ let mystr;
 
 // const auth_token = require("./auth.js");
 const configuration = new Configuration({
-	apiKey: "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",
+	apiKey: "",
 });
 ``
 const openai = new OpenAIApi(configuration);
